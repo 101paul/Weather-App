@@ -29,11 +29,14 @@ A comprehensive **Weather App** that provides detailed information about current
 ## Screenshots
 
 ### Home Screen
-![Home Screen](images/weather1.png)
+<p align="center">
+  <img src="images/weather1.png" alt="Home Screen" width="300"/>
+</p>
 
 ### Search & Forecast
-![Search & Forecast](path_to_your_image_here)
-
+<p align="center">
+  <img src="images/weather2.png" alt="Search & Forecast" width="300"/>
+</p>
 
 
 ---
