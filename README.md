@@ -58,14 +58,6 @@ A comprehensive **Weather App** that provides detailed information about current
 
 ---
 
-## Future Enhancements
 
-- Add **weather widgets** for home screen.  
-- Implement **push notifications** for weather alerts.  
-- Include **interactive maps** showing weather patterns.  
-
----
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
