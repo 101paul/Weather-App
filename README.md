@@ -29,13 +29,12 @@ A comprehensive **Weather App** that provides detailed information about current
 ## Screenshots
 
 ### Home Screen
-![Home Screen](path_to_your_image_here)
+![Home Screen](images/weather1.png)
 
 ### Search & Forecast
 ![Search & Forecast](path_to_your_image_here)
 
-### Detailed Weather Info
-![Weather Details](path_to_your_image_here)
+
 
 ---
 
